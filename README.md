@@ -3,7 +3,8 @@
 - 💻 Passionate about Full-Stack Development
 - 🌱 Learning and growing through projects, challenges, and consistent practice.
 - 📂 Check out my repositories for my coding journey, projects
-
+ ### 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/keerthana-panjatcharam/)
 
 
 ### 💻 Tech Stack
