@@ -15,7 +15,5 @@
 ### 📊 GitHub Stats
 
 ![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthana990&theme=dark&sshow_icons=true&&hide=issues,contribs)
-### 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=keerthana990&theme=dark)
 
