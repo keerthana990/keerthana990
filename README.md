@@ -1,4 +1,4 @@
-- Hi, I’m Keerthana
+### Hi, I’m Keerthana
 - 🎓 Electronics & Communication Engineering Graduate
 - 💻 Passionate about Full-Stack Development
 - 🌱 Learning and growing through projects, challenges, and consistent practice.
