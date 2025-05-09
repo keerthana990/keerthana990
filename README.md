@@ -15,7 +15,6 @@
 
 
 
-### GitHub Stats
 
 ![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthana990&theme=dark&sshow_icons=true&&hide=issues,contribs)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keerthana990&theme=dark)<br/>
