@@ -18,5 +18,5 @@
 
 ![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthana990&theme=dark&sshow_icons=true&&hide=issues,contribs)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keerthana990&theme=dark)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana990&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
