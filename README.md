@@ -15,9 +15,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana990&theme=dark&layout=compact)
 
 
-![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthana990&theme=dark&sshow_icons=true&&hide=issues,contribs)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=keerthana990&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana990&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
