@@ -1,7 +1,7 @@
 ### Hi, I’m Keerthana
 - 🎓 ECE Graduate | Aspiring Java Full-Stack Developer
 - 💻 Learning by building, solving, and staying consistent
-- 🌱 Tech Stack: Java, Spring Boot, MySQL, HTML, CSS, Bootstrap
+- 🌱 Tech Stack: Java, Spring Boot, Python, MySQL, HTML, CSS, Bootstrap
 
 
 ### Connect with Me
